@@ -32,9 +32,8 @@ For message services to work give all permissions for the app manually in phone 
 <img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/b9b14667-19ae-4895-b31a-cdee2d7a356b" alt="Image Alt Text" style="width:300px;" />
 
 ### Register-Page / OTP-page
-<img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/c201f19f-4ec1-4f92-8ff5-94335875935f" alt="Image Alt Text" style="width:300px;" />...
-<img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/29438afe-2766-4cc4-8eae-1ce44da0bf49" alt="Image Alt Text" style="width:300px;" />
-
+<img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/dacbc1bb-7375-49b5-82e9-3182604b4c8e" alt="Image Alt Text" style="width:300px;" />...
+<img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/e155b8cc-b4e5-4978-995d-c6a944669935" alt="Image Alt Text" style="width:300px;" />
 
 
 
