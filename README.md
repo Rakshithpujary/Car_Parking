@@ -5,7 +5,7 @@ User and admin-side both are in one App itself.
 
 while registration after adding all the details. User has put otp which the user as received once the otp is correct the user account is created
 
-For accessing admin-side use email as "admin" and password as "pass" in login page.
+For accessing admin-side use email as "admin" and password as "admin" in login page.
 
 For message services to work give all permissions for the app manually in phone app settings ( App info ).
 
@@ -59,7 +59,8 @@ For message services to work give all permissions for the app manually in phone 
 <img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/53b4f9d3-9041-47bc-8517-0342eb1d0071" alt="Image Alt Text" style="width:300px;" />
 
 ### View All parking Venues and Delete Venues
-<img src="" alt="Image Alt Text" style="width:300px;" />
+<img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/15bd0194-f670-44a3-8e1b-4d52e2f73c8e" alt="Image Alt Text" style="width:300px;" />
+
 
 
 
