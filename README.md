@@ -35,6 +35,40 @@ For message services to work give all permissions for the app manually in phone 
 <img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/dacbc1bb-7375-49b5-82e9-3182604b4c8e" alt="Image Alt Text" style="width:300px;" />...
 <img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/e155b8cc-b4e5-4978-995d-c6a944669935" alt="Image Alt Text" style="width:300px;" />
 
+### User Home-Page
+<img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/0f281914-5fcf-4a80-add7-de3f73845e6c" alt="Image Alt Text" style="width:300px;" />
+
+### User-Profile with User Booking History
+<img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/5387a326-ec6a-4a80-b4a8-7c210c31577a" alt="Image Alt Text" style="width:300px;" />
+
+### View Parking Venues
+<img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/d7147213-8320-4d7c-b1fd-bcf0546fa549" alt="Image Alt Text" style="width:300px;" />
+
+### View Parking slot
+<img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/95cc58eb-5386-457e-bb4f-ea9e6484a3db" alt="Image Alt Text" style="width:300px;" />
+
+### Displaying Bill 
+<img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/ecf70682-7d40-4166-9f76-4b643d66ea78" alt="Image Alt Text" style="width:300px;" />
+
+### Payment and Payment OTP-page
+<img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/3f74b937-b1ac-4c4a-83bf-268d71fcd88d" alt="Image Alt Text" style="width:300px;" />
+<img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/b8008fde-24ff-47b2-acbe-d043ff3a09a3" alt="Image Alt Text" style="width:300px;" />
+
+## Admin side
+### Admin home page
+<img src="https://github.com/Rakshithpujary/Car_Parking_Android_project/assets/135818873/53b4f9d3-9041-47bc-8517-0342eb1d0071" alt="Image Alt Text" style="width:300px;" />
+
+### View All parking Venues and Delete Venues
+<img src="" alt="Image Alt Text" style="width:300px;" />
+
+
+
+
+
+
+
+
+
 
 
 
